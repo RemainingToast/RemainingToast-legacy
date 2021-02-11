@@ -5,7 +5,7 @@
 ##### My Discord is: RemainingToast#3835
 
 ### Im currently working on
- * [2b2t.com.au](http://www.2b2t.com.au/) and [auscpvp.org](https://discord.gg/kk49q5kDea), Roadmap [here](https://github.com/RemainingToast/server-roadmap)
+ * [2b2t.com.au](http://www.2b2t.com.au/) and [auscpvp.org](https://discord.gg/kk49q5kDea)
  * [FaxHax](https://discord.gg/nUCmjemrzz) - Private 1.12.2 Forge Utliity Mod
  * [Toast Client](https://github.com/RemainingToast/toastclient) - Public 1.16+ Fabric Utility Mod
  * [AnarchyPlugins](https://github.com/AnarchyPlugins/)
