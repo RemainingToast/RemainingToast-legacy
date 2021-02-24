@@ -8,7 +8,6 @@
  * [2b2t.com.au](http://www.2b2t.com.au/) and [auscpvp.org](https://discord.gg/kk49q5kDea)
  * [FaxHax](https://discord.gg/nUCmjemrzz) - Private 1.12.2 Forge Utliity Mod
  * [Toast Client](https://github.com/RemainingToast/toastclient) - Public 1.16+ Fabric Utility Mod
- * [AnarchyPlugins](https://github.com/AnarchyPlugins/)
 
 ### Statistics 
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainingToast&layout=compact&theme=dark"></p>
