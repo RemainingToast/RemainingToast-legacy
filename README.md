@@ -24,13 +24,13 @@
 ###### *No particular order*
 
 **[Toast Client](https://github.com/RemainingToast/ToastClient)** - Minecraft utility mod written in Kotlin and Java for Fabric        
-**[Green Balloon](https://github.com/RemainingToast/GreenBalloon)*** - Powerful headless Minecraft client for 2b2t.org          
-**[Anarchy Plugin](https://github.com/2b2tau/AnarchyPlugin)*** - Advanced spigot exploit preventer for 2b2t.com.au         
-**[RandomMOTD](https://github.com/2b2tau/RandomMOTD)** - Convenient message of the day formatter for Anarchy Minecraft Servers        
-**[ServerAPI](https://github.com/2b2tau/ServerAPI)** - Java REST API with self hosted documentation for 2b2t.com.au         
+**[FaxHax QueueSkip](https://github.com/FaxHax/QueueSkip)*** - Powerful headless Minecraft proxy designed for 2b2t.org          
+**[Anarchy Plugin](https://github.com/RemainingToast/AnarchyPlugin)*** - Advanced spigot exploit preventer for 2b2t.com.au         
+**[RandomMOTD](https://github.com/RemainingToast/RandomMOTD)** - Convenient message of the day formatter for Anarchy Minecraft Servers        
+**[ServerAPI](https://github.com/RemainingToast/ServerAPI)** - Java REST API with self hosted documentation for 2b2t.com.au         
 **[Duels](https://github.com/RemainingToast/Duels)** - 1v1 spigot plugin designed for crystal pvp servers [(Realizedd Fork)](https://github.com/Realizedd/Duels)      
   
-###### GreenBalloon* & AnarchyPlugin* are not open source
+###### FaxHax QueueSkip* & AnarchyPlugin* are not open source
 
 # GitHub Stats :computer:
 
