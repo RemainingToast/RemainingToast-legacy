@@ -3,16 +3,22 @@
 # RemainingToast :rocket:
 
 [![Projects icon]][Projects]
+[![Based icon]][Based]
 [![Viewers icon]][Viewers]
-[![Followers icon]][Followers]
+[![Followers icon]][Followers]     
+[![Ethereum icon]][Ethereum]
 
 [Projects]: https://github.com/RemainingToast?tab=repositories
-[Viewers]: https://www.patreon.com/tycrek
+[Based]: https://img.shields.io/badge/Based-Very-9080c2  
+[Viewers]: https://github.com/RemainingToast
 [Followers]: https://github.com/RemainingToast?tab=followers
-
+[Ethereum]: https://en.cryptobadges.io/donate/0x03c2e8e9d54513d98b4e2013b234be29bac7bbda
+  
 [Projects icon]: https://img.shields.io/badge/-Check%20out%20my%20projects-blue
+[Based icon]: https://img.shields.io/badge/Based-Very-9080c2
 [Viewers icon]: https://komarev.com/ghpvc/?username=RemainingToast
 [Followers icon]: https://img.shields.io/github/followers/RemainingToast?style=social
+[Ethereum icon]: https://en.cryptobadges.io/badge/small/0x03c2e8e9d54513d98b4e2013b234be29bac7bbda  
 
 ## Notable Projects
 ###### *No particular order*
